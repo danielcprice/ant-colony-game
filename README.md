@@ -10,20 +10,5 @@ Added win/loss conditions and a simple win or loss screen.
 We'll see
 
 ## Ideas
-
-
-## Assignment Rubric
-
-Code must not be copied<br>
-<br>
-Must include all concepts from class:<br>
-Data Types - <br>
-Control Statements - <br>
-Functions - <br>
-Lists - <br>
-Tuples - <br>
-Dictionaries - <br>
-Sets - <br>
-Object-Oriented Programming - <br>
-Modules, Packages, and File Operations - <br>
-Error Handling - <br>
+If I ever come back to this project I might like to turn it into a tower defense game with dots that represent the ants.
+Upgrades could make "worker" ants able to fight alongside "soldier" ants
